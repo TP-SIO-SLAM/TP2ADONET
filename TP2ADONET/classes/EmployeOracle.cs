@@ -149,6 +149,7 @@ namespace EmployeDatas.Oracle
                 Console.WriteLine(reader.GetValue(2));
                 Console.Write("\t");
                 Console.WriteLine(reader.GetValue(3));
+                
             }
         }
 
